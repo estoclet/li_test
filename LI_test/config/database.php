@@ -74,8 +74,8 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'mysql:host=localhost;dbname=litest',
-	'hostname' => 'localhost',
+	'dsn'	=> 'mysql:host=96b1bc9a-4893-4a39-abe2-1ece030409fb.pub.cloud.scaleway.com;dbname=litest',
+	'hostname' => '96b1bc9a-4893-4a39-abe2-1ece030409fb.pub.cloud.scaleway.com',
 	'username' => 'litest',
 	'password' => 'litest',
 	'database' => '',
